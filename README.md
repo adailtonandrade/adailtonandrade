@@ -79,16 +79,22 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/adailtonfilho/" target="_blank">
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg">
         <img alt="Linkedin Logo" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40">
     </picture>
   </a>
   <a href="mailto:adailtonsts@gmail.com?subject=" target="_blank">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg">
       <img alt="Gmail Logo" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40">
     </picture>
   </a>
   <a href="https://www.youtube.com/AdailtonAndrade" target="_blank">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg">
       <img alt="Youtube Logo" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40">
     </picture>
   </a>
